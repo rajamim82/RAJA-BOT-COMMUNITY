@@ -1,5 +1,5 @@
 module.exports.config = {
- name: "video",
+ name: "item",
  version: "1.0.0",
  hasPermssion: 0,
  credits: "RAJA ViP 5X",
